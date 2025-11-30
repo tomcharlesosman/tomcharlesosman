@@ -1,6 +1,6 @@
 # Hey, I'm Tom Osman 👋
 
-Mallorca-based technologist, educator, and builder running [Shiny Technologies](https://heyshiny.com) while filming cinematic tutorial systems for the AI frontier. I live at [tomosman.com](https://tomosman.com) where I broadcast every experiment in public.
+Mallorca-based technologist, educator, "vibe-coder" and builder running [Shiny Technologies](https://heyshiny.com) while filming edcuational tutorial systems for the AI frontier. I live at [tomosman.com](https://tomosman.com) where I broadcast every experiment in public.
 
 > Discovering what's possible with technology and handing those capabilities to everyone.
 
