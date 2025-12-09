@@ -21,7 +21,7 @@ Mallorca-based technologist, educator, "vibe-coder" and builder running [Shiny T
 
 ## Selected Proofs of Work
 
-### Client Systems
+### Client Projects
 
 - **Stack AI – Workflow Tutorial Series**  
   Designed standalone tutorials showing the Stack canvas, routing logic, and integrations so teams can clone proven agent workflows.
@@ -36,15 +36,6 @@ Mallorca-based technologist, educator, "vibe-coder" and builder running [Shiny T
   Full multi-modal companion studio with React 19 front end, Node/Express API, Firestore, Gemini/Imagen/Veo orchestration, WebSocket voice stack, and Vitest-backed coverage.
 - **LUMIER – Luxury AI Grid Studio**  
   Monetized SaaS turning raw product shots into curated Instagram grids via Gemini 3.0 Pro Vision, Node/Express + PostgreSQL + Drizzle ORM, Stripe billing, and a luxury “Atelier” UX system.
-
-## Current Stack & Tools
-
-- **Manus** – portable AI companion that turns scattered thoughts into structured follow-ups.  
-- **Google AI Studio** – Gemini playground for prompt testing and fast capability evaluation.  
-- **Cursor** – AI-native IDE with repo-aware chat + agentic refactors.  
-- **Restream + Screen Studio** – cinematic capture kit for live labs and launch walkthroughs.  
-- **Stack AI / Retell / Synthflow** – go-to platforms for orchestrating agents, call flows, and automation in production.  
-- **Perplexity & Exa** – research copilots that merge retrieval, reasoning, and citations.
 
 ## Focus & Philosophy
 
