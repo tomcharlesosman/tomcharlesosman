@@ -1,60 +1,53 @@
-# Hey, I'm Tom Osman 👋
+# Tom Osman
 
-Mallorca-based technologist, educator, "vibe-coder" and builder running [Shiny Technologies](https://heyshiny.com) while filming edcuational tutorials for the AI frontier. I live at [tomosman.com](https://tomosman.com) where I broadcast every experiment in public.
+I build AI products and teach developers how to use them.
 
-> Discovering what's possible with technology and handing those capabilities to everyone.
+I call myself a Technology Dealer. I find useful tools at the edge, stress-test them in real products, then show people exactly what they can do. In practice, that puts me between product engineering and developer relations. I prototype with frontier models, connect agents to real tools, find the failure modes, and turn the result into reference apps, documentation, tutorials, workshops, and video.
 
-## Operating Modes
+Based in Mallorca, Spain. Founder of [Shiny Technologies](https://heyshiny.com). Previously Head of Education at Makerpad and Education & Growth at Synthflow AI.
 
-- **Technology Dealer** – curate the tools that bend reality and show how to wield them.  
-- **Educator in Residence** – live-build AI agents, film walkthroughs, and ship reuse-ready docs.  
-- **Builder / Consultant** – architect workflows and revenue-grade systems for ambitious AI teams.  
-- **Video-First Communicator** – explain complex topics with multi-angle capture, live labs, and 4K tutorials.
+[Website](https://www.tomosman.com) · [Projects](https://www.tomosman.com/portfolio) · [Technical writing](https://www.tomosman.com/blog) · [X](https://x.com/tomosman) · [LinkedIn](https://www.linkedin.com/in/thomascharlesosman/) · [Email](mailto:tom@tomosman.com)
 
-## What I'm Doing in 2025
+## What I ship
 
-- **Founder, Shiny (Mar 2021 – Now)** – boutique consultancy finding the edge of digital tech and helping partners take advantage.  
-- **Education & Growth, Synthflow AI (Jul 2024 – Mar 2025)** – built Synthflow Academy, shipped training for 20k+ operators, and design AI voice assistant programs.  
-- **AI Scout, Interface Capital (Dec 2023 – Now)** – evaluate iconic AI startups, meet founders, and route investments.  
-- **Head of Education, Makerpad (2019 – 2021)** – led the no-code education team that trained thousands of builders.  
-- Earlier: Product Manager at Teachers Register, Northcoders bootcamp grad, digital recruiter at Jambo Ltd.
+- **Working AI products.** Chat, voice, image, video, search, and agent experiences built with TypeScript, React, Next.js, Node, Python, WebSockets, and model APIs.
+- **Developer on-ramps.** Reference builds, integration guides, API documentation, workshops, and recorded walkthroughs that take someone from first prompt to a working product.
+- **Agent infrastructure.** Tool integrations, reusable skills, auditable data pipelines, explicit schemas, and interfaces designed for both people and software agents.
+- **Product feedback loops.** I use the product hard enough to find the rough edges, document the failure, fix what I can, and bring the rest back to product and engineering.
 
-## Selected Proofs of Work
+## Recent work
 
-### Client Projects
+| Project | What I built |
+| --- | --- |
+| [MAL Market Intelligence](https://github.com/tomcharlesosman/mal-market-intelligence) | A TypeScript ingestion and market-analysis service with explicit schemas, immutable run artifacts, audit logs, normalized records, comparable ranking, tests, and a generated public site. |
+| [MiroFishZHC](https://github.com/tomcharlesosman/MiroFishZHC) | A product pass on a Python/Vue multi-agent simulation engine: new ingestion, workspace and simulation flows, multilingual UX, and an auth migration to Privy. [See the change](https://github.com/tomcharlesosman/MiroFishZHC/pull/1). |
+| [Editorial AI](https://github.com/tomcharlesosman/Editorial-AI---Template) | A React writing tool that uses Gemini for structured critique and Firecrawl for source import, with focused editing, one-click fixes, and Markdown export. |
+| [ZHC Skills](https://github.com/tomcharlesosman/skills) | Agent-executable API skills with working scripts, examples, and field notes. The first skill automates Tito event and ticket operations. |
+| [tomosman.com](https://www.tomosman.com) | A Next.js 16 and MDX publishing system with tests, guarded deployment, structured data, RSS, crawler policies, and concise/full `llms.txt` surfaces for agent discovery. |
 
-- **Stack AI – Workflow Tutorial Series**  
-  Designed standalone tutorials showing the Stack canvas, routing logic, and integrations so teams can clone proven agent workflows.
-- **Chatbase – AI Support Education Series**  
-  Filmed AI support agent walkthroughs, produced changelog videos for every launch, and kept Mintlify docs in sync.
-- **Synthflow – Synthflow Academy Buildout**  
-  Scripted and filmed a from-scratch curriculum covering foundational to advanced integrations so 20k+ operators could ship AI agents faster.
+## Developer education
 
-### Personal Proof Playbooks
+- Built [Synthflow Academy](https://www.tomosman.com/portfolio/synthflow) from the first lesson through advanced voice-agent integrations, helping more than 20,000 operators build with the product.
+- Led education at Makerpad, where the team taught thousands of people to build software without traditional code.
+- Produced cloneable agent-workflow tutorials for [Stack AI](https://www.tomosman.com/portfolio/stack-ai), plus support-agent tutorials, launch videos, and Mintlify documentation for [Chatbase](https://www.tomosman.com/portfolio/chatbase).
+- Publish practical notes on [agent-ready websites](https://www.tomosman.com/blog/ai-agent-friendly-website), [tool-using agents](https://www.tomosman.com/blog/programmable-internet-agents), and [teaching through live builds](https://www.tomosman.com/blog/teaching-by-building).
 
-- **Yes Coach – AI Character Platform**  
-  Full multi-modal companion studio with React 19 front end, Node/Express API, Firestore, Gemini/Imagen/Veo orchestration, WebSocket voice stack, and Vitest-backed coverage.
-- **LUMIER – Luxury AI Grid Studio**  
-  Monetized SaaS turning raw product shots into curated Instagram grids via Gemini 3.0 Pro Vision, Node/Express + PostgreSQL + Drizzle ORM, Stripe billing, and a luxury “Atelier” UX system.
+## How I work
 
-## Focus & Philosophy
+1. Start with a real task and get the whole path working.
+2. Test the failure paths, not only the demo path.
+3. Turn the build into the smallest useful example another developer can run.
+4. Teach the decisions, tradeoffs, and debugging process in plain language.
+5. Feed developer friction back into the product.
 
-- Explore the frontier, stress-test models, and push them into real workflows.  
-- Teach by building in public—no slides, just raw orchestration and debug logs.  
-- Keep everything video-first so builders feel the nuance, not just hear about it.  
-- Empower anyone to create their own tools with repeatable playbooks and labs.
+## Technical range
 
-## Collaborate
+TypeScript and JavaScript · Python · React 19 · Next.js 16 · Vue · Node and Express · REST APIs · WebSockets · PostgreSQL and Drizzle · Firestore · Vitest and Playwright · Vercel and Google Cloud · Gemini, Imagen, Veo, and agent tool integrations
 
-I run **AI Tutorial Labs** for startups that need cinematic education engines: scripting, live capture, launch walkthroughs, and reuse-ready docs. Retainer availability is limited (two slots per quarter) and I work remote from Mallorca.
+## What I want to work on next
 
-👉 Send a brief → [tom@tomosman.com](mailto:tom@tomosman.com?subject=Let%E2%80%99s%20Build%20an%20AI%20Tutorial%20Lab)
+I’m looking for a hands-on Developer Relations / Member of Technical Staff role on a frontier AI product. I want to sit close to engineering: build reference experiences, improve developer interfaces, make fast-moving model capabilities understandable, and turn developer feedback into better product decisions.
 
-## Links & Signals
+GrokBot is exactly the kind of problem I want to work on: a capable agent inside a product people use every day, supported by examples and education that help developers discover what it can do.
 
-- [Website](https://tomosman.com) – hero, tools, timeline, and ongoing transmissions.  
-- [Blog](https://tomosman.com/blog) – notes on AI strategy, launches, and product systems.  
-- [Tools Inventory](https://tomosman.com/tools) – refreshed manually as the stack evolves.  
-- [X / Twitter](https://x.com/tomosman) – daily dispatches and launch threads.  
-- [GitHub](https://github.com/tomcharlesosman) – public experiments and proofs.  
-- [Email](mailto:tom@tomosman.com) – say hi, send ideas, or book a call.
+If that sounds useful, email me at [tom@tomosman.com](mailto:tom@tomosman.com).
