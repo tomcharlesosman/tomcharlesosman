@@ -4,7 +4,7 @@ I build agent products and teach developers how to use them.
 
 I call myself a Technology Dealer. I find useful tools at the edge, stress-test them in real products, then show people exactly what they can do. In practice, that puts me between product engineering and developer relations. I prototype with frontier models, connect agents to real tools, find the failure modes, and turn the result into reference apps, documentation, tutorials, workshops, and video.
 
-Based in Mallorca, Spain. Currently building Juno, [ZHC Institute](https://www.zhcinstitute.com), and [Middleman](https://middleman-amber.vercel.app). Founder of [Shiny Technologies](https://heyshiny.com). Previously Head of Education at Makerpad and Education & Growth at Synthflow AI.
+Based in Mallorca, Spain. Currently building Juno, [ZHC Institute](https://www.zhcinstitute.com), and Middleman. Founder of [Shiny Technologies](https://heyshiny.com). Previously Head of Education at Makerpad and Education & Growth at Synthflow AI.
 
 [Website](https://www.tomosman.com) · [Projects](https://www.tomosman.com/portfolio) · [Technical writing](https://www.tomosman.com/blog) · [X](https://x.com/tomosman) · [LinkedIn](https://www.linkedin.com/in/thomascharlesosman/) · [Email](mailto:tom@tomosman.com)
 
@@ -29,7 +29,7 @@ The system runs on Next.js with automated research briefings, tests and Playwrig
 
 ### Middleman
 
-[Middleman](https://middleman-amber.vercel.app) is an agent-led B2B sourcing network for fragmented industrial markets. Buyer and supplier agents turn incomplete intent into typed requirements and offers, source live options, keep evidence and uncertainty attached, and stop for human approval before outreach, terms, or payment.
+Middleman is an agent-led B2B sourcing network for fragmented industrial markets. Buyer and supplier agents turn incomplete intent into typed requirements and offers, source live options, keep evidence and uncertainty attached, and stop for human approval before outreach, terms, or payment.
 
 I’m building the public product and tenant-bound workspace with Next.js, WorkOS/AuthKit, Convex, Mastra and Neon, private Vercel Blob storage, and ElevenLabs voice partners. Recent work includes agent authentication and A2A support, buyer and supplier onboarding, role and permission boundaries, evaluation fixtures, privacy-safe analytics, and production checks.
 
