@@ -4,7 +4,7 @@ I build agent products and teach developers how to use them.
 
 I call myself a Technology Dealer. I find useful tools at the edge, stress-test them in real products, then show people exactly what they can do. In practice, that puts me between product engineering and developer relations. I prototype with frontier models, connect agents to real tools, find the failure modes, and turn the result into reference apps, documentation, tutorials, workshops, and video.
 
-Based in Mallorca, Spain. Currently building Juno, [ZHC Institute](https://www.zhcinstitute.com), and Middleman. Founder of [Shiny Technologies](https://heyshiny.com). Previously Head of Education at Makerpad and Education & Growth at Synthflow AI.
+Based in Mallorca, Spain. Currently building Juno, [ZHC Institute](https://www.zhcinstitute.com), and Middleman. Founder of [Shiny Technologies](https://heyshiny.com). Previously Head of Education at Makerpad and Education & Growth at Synthflow AI. I also spent a year in venture capital at [Interface](https://interfacecap.com/).
 
 [Website](https://www.tomosman.com) · [Projects](https://www.tomosman.com/portfolio) · [Technical writing](https://www.tomosman.com/blog) · [X](https://x.com/tomosman) · [LinkedIn](https://www.linkedin.com/in/thomascharlesosman/) · [Email](mailto:tom@tomosman.com)
 
