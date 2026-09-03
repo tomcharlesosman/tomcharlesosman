@@ -1,10 +1,10 @@
 # Tom Osman
 
-I build AI products and teach developers how to use them.
+I build agent products and teach developers how to use them.
 
 I call myself a Technology Dealer. I find useful tools at the edge, stress-test them in real products, then show people exactly what they can do. In practice, that puts me between product engineering and developer relations. I prototype with frontier models, connect agents to real tools, find the failure modes, and turn the result into reference apps, documentation, tutorials, workshops, and video.
 
-Based in Mallorca, Spain. Founder of [Shiny Technologies](https://heyshiny.com). Previously Head of Education at Makerpad and Education & Growth at Synthflow AI.
+Based in Mallorca, Spain. Currently building Juno, [ZHC Institute](https://www.zhcinstitute.com), and [Middleman](https://middleman-amber.vercel.app). Founder of [Shiny Technologies](https://heyshiny.com). Previously Head of Education at Makerpad and Education & Growth at Synthflow AI.
 
 [Website](https://www.tomosman.com) · [Projects](https://www.tomosman.com/portfolio) · [Technical writing](https://www.tomosman.com/blog) · [X](https://x.com/tomosman) · [LinkedIn](https://www.linkedin.com/in/thomascharlesosman/) · [Email](mailto:tom@tomosman.com)
 
@@ -17,13 +17,21 @@ Based in Mallorca, Spain. Founder of [Shiny Technologies](https://heyshiny.com).
 
 ## Recent work
 
-| Project | What I built |
-| --- | --- |
-| [MAL Market Intelligence](https://github.com/tomcharlesosman/mal-market-intelligence) | A TypeScript ingestion and market-analysis service with explicit schemas, immutable run artifacts, audit logs, normalized records, comparable ranking, tests, and a generated public site. |
-| [MiroFishZHC](https://github.com/tomcharlesosman/MiroFishZHC) | A product pass on a Python/Vue multi-agent simulation engine: new ingestion, workspace and simulation flows, multilingual UX, and an auth migration to Privy. [See the change](https://github.com/tomcharlesosman/MiroFishZHC/pull/1). |
-| [Editorial AI](https://github.com/tomcharlesosman/Editorial-AI---Template) | A React writing tool that uses Gemini for structured critique and Firecrawl for source import, with focused editing, one-click fixes, and Markdown export. |
-| [ZHC Skills](https://github.com/tomcharlesosman/skills) | Agent-executable API skills with working scripts, examples, and field notes. The first skill automates Tito event and ticket operations. |
-| [tomosman.com](https://www.tomosman.com) | A Next.js 16 and MDX publishing system with tests, guarded deployment, structured data, RSS, crawler policies, and concise/full `llms.txt` surfaces for agent discovery. |
+### Juno
+
+[Juno](https://x.com/JunoAgent) is the AI operator behind ZHC Institute, built to help founders design and run companies operated by agents. The product has a distinct voice and identity, practical tool and architecture guidance, usage-credit enforcement, agent security references, and voice interaction inside the Institute.
+
+### ZHC Institute
+
+[ZHC Institute](https://www.zhcinstitute.com) is the platform and practitioner network for people building Zero-Human Companies. The product combines a continuously updated research and funding catalogue, operational playbooks, live build sessions, member workflows, and Juno.
+
+The system runs on Next.js with automated research briefings, tests and Playwright coverage, Sentry and structured logging, dependency and bundle checks, incident and rollback runbooks, and recurring security scans. I’ve been building the product, content system, agent experience, and operating model together.
+
+### Middleman
+
+[Middleman](https://middleman-amber.vercel.app) is an agent-led B2B sourcing network for fragmented industrial markets. Buyer and supplier agents turn incomplete intent into typed requirements and offers, source live options, keep evidence and uncertainty attached, and stop for human approval before outreach, terms, or payment.
+
+I’m building the public product and tenant-bound workspace with Next.js, WorkOS/AuthKit, Convex, Mastra and Neon, private Vercel Blob storage, and ElevenLabs voice partners. Recent work includes agent authentication and A2A support, buyer and supplier onboarding, role and permission boundaries, evaluation fixtures, privacy-safe analytics, and production checks.
 
 ## Developer education
 
@@ -42,12 +50,12 @@ Based in Mallorca, Spain. Founder of [Shiny Technologies](https://heyshiny.com).
 
 ## Technical range
 
-TypeScript and JavaScript · Python · React 19 · Next.js 16 · Vue · Node and Express · REST APIs · WebSockets · PostgreSQL and Drizzle · Firestore · Vitest and Playwright · Vercel and Google Cloud · Gemini, Imagen, Veo, and agent tool integrations
+TypeScript and JavaScript · Python · React · Next.js · Node and Express · REST APIs · WebSockets · WorkOS/AuthKit · Convex · Mastra · PostgreSQL and Neon · Vercel Blob · ElevenLabs · Sentry and Pino · Vitest and Playwright · agent authentication and A2A
 
 ## What I want to work on next
 
 I’m looking for a hands-on Developer Relations / Member of Technical Staff role on a frontier AI product. I want to sit close to engineering: build reference experiences, improve developer interfaces, make fast-moving model capabilities understandable, and turn developer feedback into better product decisions.
 
-GrokBot is exactly the kind of problem I want to work on: a capable agent inside a product people use every day, supported by examples and education that help developers discover what it can do.
+Building Juno has made me care about the details that turn a model into a product: voice, identity, tool use, context, permissions, usage economics, evaluation, and the line between preparing an action and taking it. That is the work I want to bring to GrokBot.
 
 If that sounds useful, email me at [tom@tomosman.com](mailto:tom@tomosman.com).
