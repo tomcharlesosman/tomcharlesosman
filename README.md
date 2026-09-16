@@ -2,7 +2,7 @@
 
 ## Latest
 
-Library refresh: [verify-loop CI](https://www.zhcinstitute.com/playbooks/verify-loop-ci-agent-code/) · [agent identity / KYA](https://www.zhcinstitute.com/playbooks/agent-identity-kya/) · [Claude Managed Agents](https://www.zhcinstitute.com/resources/tools/anthropic-managed-agents/) · [zhcinstitute.com](https://www.zhcinstitute.com)
+Jurisdiction clocks refreshed (US/GB/DE): [US](https://www.zhcinstitute.com/resources/jurisdiction/united-states/) · [UK](https://www.zhcinstitute.com/resources/jurisdiction/united-kingdom/) · [Germany](https://www.zhcinstitute.com/resources/jurisdiction/germany/) — CA 947/951/1883 enrolled-only.
 
 I build agent products and teach developers how to use them.
 
