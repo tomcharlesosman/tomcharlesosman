@@ -2,7 +2,7 @@
 
 ## Latest
 
-Public library update: 3 playbooks + 5 tools for zero-human operators — [agent payments spend policy](https://www.zhcinstitute.com/playbooks/agent-payments-spend-policy) · [deployer assurance / voluntary IVO](https://www.zhcinstitute.com/playbooks/deployer-assurance-ivo-checklist) · [harness permission outside the agent](https://www.zhcinstitute.com/playbooks/harness-permission-outside-agent) · [zhcinstitute.com](https://www.zhcinstitute.com)
+Library refresh: [verify-loop CI](https://www.zhcinstitute.com/playbooks/verify-loop-ci-agent-code/) · [agent identity / KYA](https://www.zhcinstitute.com/playbooks/agent-identity-kya/) · [Claude Managed Agents](https://www.zhcinstitute.com/resources/tools/anthropic-managed-agents/) · [zhcinstitute.com](https://www.zhcinstitute.com)
 
 I build agent products and teach developers how to use them.
 
