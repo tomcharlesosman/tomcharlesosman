@@ -2,7 +2,7 @@
 
 ## Latest
 
-Jurisdiction clocks refreshed (US/GB/DE): [US](https://www.zhcinstitute.com/resources/jurisdiction/united-states/) · [UK](https://www.zhcinstitute.com/resources/jurisdiction/united-kingdom/) · [Germany](https://www.zhcinstitute.com/resources/jurisdiction/germany/) — CA 947/951/1883 enrolled-only.
+Field Notes: [OpenAI model-misalignment reporting framework](https://www.zhcinstitute.com/research/openai-model-misalignment-reporting-framework-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
 
 I build agent products and teach developers how to use them.
 
