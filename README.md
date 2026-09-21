@@ -2,7 +2,7 @@
 
 ## Latest
 
-Field Notes: [OpenAI model-misalignment reporting framework](https://www.zhcinstitute.com/research/openai-model-misalignment-reporting-framework-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
+Field Notes: [Anthropic pace-of-development measurements](https://www.zhcinstitute.com/research/anthropic-pace-of-ai-development-measurements-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
 
 I build agent products and teach developers how to use them.
 
