@@ -2,7 +2,7 @@
 
 ## Latest
 
-Field Notes: [Anthropic × Accenture embedded evaluation](https://www.zhcinstitute.com/research/anthropic-accenture-embedded-evaluation-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
+Field Notes: [WorkOS agent-credential architectures](https://www.zhcinstitute.com/research/workos-agent-credential-architectures-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
 
 I build agent products and teach developers how to use them.
 
@@ -58,7 +58,7 @@ TypeScript and JavaScript · Python · React · Next.js · Node and Express · R
 
 ## What I want to work on next
 
-I’m looking for a hands-on Developer Relations / Member of Technical Staff role on a frontier AI product. I want to sit close to engineering: build reference experiences, improve developer interfaces, make fast-moving model capabilities understandable, and turn developer feedback into better product decisions.
+I’m looking for a hands-on Developer Relations / Member of Technical Staff role on a frontier AI product. I want to sit close to engineering: build reference experiences, improve developer interfaces, makeselon-moving model capabilities understandable, and turn developer feedback into better product decisions.
 
 Building Juno has made me care about the details that turn a model into a product: voice, identity, tool use, context, permissions, usage economics, evaluation, and the line between preparing an action and taking it. That is the work I want to bring to GrokBot.
 
