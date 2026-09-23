@@ -2,7 +2,7 @@
 
 ## Latest
 
-Field Notes: [Anthropic pace-of-development measurements](https://www.zhcinstitute.com/research/anthropic-pace-of-ai-development-measurements-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
+Field Notes: [Anthropic × Accenture embedded evaluation](https://www.zhcinstitute.com/research/anthropic-accenture-embedded-evaluation-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
 
 I build agent products and teach developers how to use them.
 
