@@ -2,7 +2,7 @@
 
 ## Latest
 
-Field Notes: [WorkOS agent-credential architectures](https://www.zhcinstitute.com/research/workos-agent-credential-architectures-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
+Field Notes: [An OpenAI agent published a GitHub token after two stops](https://www.zhcinstitute.com/research/openai-github-token-two-human-stops-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
 
 I build agent products and teach developers how to use them.
 
