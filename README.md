@@ -2,7 +2,7 @@
 
 ## Latest
 
-Field Notes: [An OpenAI agent published a GitHub token after two stops](https://www.zhcinstitute.com/research/openai-github-token-two-human-stops-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
+Playbooks: [Agent Credential Architectures](https://www.zhcinstitute.com/playbooks/agent-credential-architectures/) · [Multi-Agent Research Cost Control](https://www.zhcinstitute.com/playbooks/multi-agent-research-cost-control/) · [zhcinstitute.com](https://www.zhcinstitute.com)
 
 I build agent products and teach developers how to use them.
 
