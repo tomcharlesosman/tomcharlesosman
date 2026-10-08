@@ -2,7 +2,7 @@
 
 ## Latest
 
-Playbooks: [Agent Credential Architectures](https://www.zhcinstitute.com/playbooks/agent-credential-architectures/) · [Multi-Agent Research Cost Control](https://www.zhcinstitute.com/playbooks/multi-agent-research-cost-control/) · [zhcinstitute.com](https://www.zhcinstitute.com)
+Field Notes: [UK lifecycle monitoring for AI medical devices](https://www.zhcinstitute.com/research/uk-health-ai-lifecycle-monitoring-field-notes/) · [OpenAI and Ironclad grade the finished setup](https://www.zhcinstitute.com/research/openai-ironclad-computer-use-contracting-field-notes/) · [zhcinstitute.com](https://www.zhcinstitute.com)
 
 I build agent products and teach developers how to use them.
 
