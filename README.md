@@ -44,8 +44,6 @@ The public reference build is [Treg Lens](https://github.com/tomcharlesosman/tre
 - [treg-lens](https://github.com/tomcharlesosman/treg-lens): Open-source AI visibility workspace powered by Treg. Sign in with your own API key and track how answer engines cite a brand.
 - [skills](https://github.com/tomcharlesosman/skills): Public skill collection for ZHC Institute. The first skill is a tested Tito events integration for agents.
 - [mal-market-intelligence](https://github.com/tomcharlesosman/mal-market-intelligence): Mallorca real estate market intelligence with explicit schemas, auditable ingestion runs, and a generated launch page.
-- [Editorial AI](https://github.com/tomcharlesosman/Editorial-AI---Template): Open-source writing assistant that flags AI tells in tone and structure, then lets you apply the edit.
-- [LUMIER Feed Architect](https://github.com/tomcharlesosman/LUMIER-Feed-Architect---Template): Template that turns product photos into a cohesive 3x3 Instagram grid.
 
 ## Developer education
 
